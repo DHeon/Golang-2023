@@ -1,5 +1,11 @@
 package main
 
-func main() {
+import (
+	"fmt"
+	"math/rand"
+)
 
+func main() {
+	dice := rand.Intn(6) + 1
+	fmt.Print(dice)
 }
