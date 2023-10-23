@@ -1,0 +1,32 @@
+변수 만드는거는
+var a 타입 =
+var a = 
+a :=
+
+
+:= 만들때만
+
+이후에 넣을 때는 =
+
+
+타입 확인
+reflect.TypeOf(a)
+
+타입 변환은
+int(a)
+float32(b)
+float()은 없음 float32나 float64
+
+math.Floor()
+math.Ceil()
+math.Sqrt()
+
+타입은 int , float32, float64, string,bool,  rune == int32
+
+replacePlayer := strings.NewReplacer("?", "son")
+	player := replacePlayer.Replace(HotSpurs)
+
+리플레이서 만드는 방법.
+
+
+
