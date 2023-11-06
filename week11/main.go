@@ -7,6 +7,6 @@ func main() {
 
 	arr[0] = 1
 	fmt.Println(arr[0])
-	var arr2 [5]int = [5]int{1, 2, 3, 4, 5} //리터럴
+	//var arr2 [5]int = [5]int{1, 2, 3, 4, 5} //리터럴
 
 }
