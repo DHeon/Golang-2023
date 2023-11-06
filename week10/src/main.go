@@ -1,7 +1,5 @@
 package main
 
-import "main/src/greeting"
-
 func main() {
 	// fmt.Println(mymath.MyPower(2, 9))
 	// fmt.Println(mymath.MyPower(4, 3))

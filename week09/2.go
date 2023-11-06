@@ -12,5 +12,4 @@ func main() {
 	fmt.Printf("%T %T %T %T\n", a, *pa, &a, pa)
 	fmt.Println(&pa)
 
-	
 }
